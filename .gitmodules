@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/JATorres-zxc/frontend
+[submodule "geloPolls"]
+	path = geloPolls
+	url = https://github.com/JATorres-zxc/geloPolls
